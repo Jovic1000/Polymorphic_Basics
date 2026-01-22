@@ -9,14 +9,14 @@ float Shape::CalculateArea()
 std::string Shape::GetType()
 {
 
-	return "Shape";
+	return "";
 }
 
-void Shape::GetSides()
+int Shape::GetSides()
 {
-
+	return m_sides;
 }
 
-Shape::Shape(int sides) : m_radius(sides)
+Shape::Shape(int sides) : m_sides(sides)
 {
 }

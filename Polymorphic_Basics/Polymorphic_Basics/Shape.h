@@ -7,7 +7,7 @@ public:
 
 	virtual float CalculateArea();
 	virtual std::string GetType();
-	void GetSides();
+	virtual int GetSides();
 
 	Shape(int sides);
 private:

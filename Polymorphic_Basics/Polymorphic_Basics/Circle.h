@@ -5,12 +5,12 @@ class Circle : public Shape
 {
 public:
 
-	float CalculateArea();
-	std::string GetType();
-	void GetCircumference();
+	float CalculateArea() override;
+	std::string GetType() override;
+	float GetCircumference();
 
 	Circle(float radius);
 private:
-	int m_radius;
+	float m_radius;
 };
 

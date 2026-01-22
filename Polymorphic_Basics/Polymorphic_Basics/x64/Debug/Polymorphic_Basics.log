@@ -1,3 +1,2 @@
-﻿  Circle.cpp
-C:\Temp\Polymorphic basics\Polymorphic_Basics\Polymorphic_Basics\Circle.cpp(4,50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Temp\Polymorphic basics\Polymorphic_Basics\Polymorphic_Basics\Circle.cpp(10,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+﻿  main.cpp
+  Polymorphic_Basics.vcxproj -> E:\GitHub Clone Repository\Polymorphic_Basics\Polymorphic_Basics\x64\Debug\Polymorphic_Basics.exe
